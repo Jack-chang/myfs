@@ -1,9 +1,9 @@
 /***********************************************/
-/*       Async Message Passing Library         */
-/*       Copyright  2005                       */
+/*       list copy form linux kernel           */
 /*                                             */
-/*  Author:                                    */ 
-/*          Rongfeng Tang                      */
+/*                                             */
+/*                                             */ 
+/*                                             */
 /***********************************************/
 #ifndef __COMMON_LIST_H_
 #define __COMMON_LIST_H_
